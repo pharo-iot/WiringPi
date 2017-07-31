@@ -1,2 +1,2 @@
 # WiringPi
-[WiringPi](http://wiringpi.com) binding library for Pharo
+[WiringPi library](http://wiringpi.com) binding for Pharo
