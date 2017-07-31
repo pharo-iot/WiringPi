@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WiringPiLibrary",
+	"category" : "WiringPi-Extras",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WiringPiDevLibrary",
+	"type" : "normal"
+}

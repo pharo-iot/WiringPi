@@ -1,0 +1,3 @@
+initialization
+unixModuleName
+	^'wiringPi.so'

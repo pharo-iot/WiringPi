@@ -1,0 +1,1 @@
+Constant extract from the Wiring pi doc

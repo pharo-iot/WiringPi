@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "WiringPi-Extras",
+	"classinstvars" : [ ],
+	"pools" : [
+		"WPPiGlowConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"glow"
+	],
+	"name" : "WPPiGlowExample",
+	"type" : "normal"
+}

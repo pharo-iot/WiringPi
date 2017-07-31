@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SharedPool",
+	"category" : "WiringPi-Extras",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FALSE",
+		"PIGLOW_BLUE",
+		"PIGLOW_GREEN",
+		"PIGLOW_ORANGE",
+		"PIGLOW_RED",
+		"PIGLOW_WHITE",
+		"PIGLOW_YELLOW",
+		"TRUE"
+	],
+	"instvars" : [ ],
+	"name" : "WPPiGlowConstants",
+	"type" : "normal"
+}
