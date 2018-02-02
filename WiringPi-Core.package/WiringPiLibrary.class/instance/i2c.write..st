@@ -1,5 +1,5 @@
 FFI - I2C
-write: dataInt toI2C: fd  
+i2c: fd write: dataInt  
 	"Simple device write. 
 	Some devices accept data this way without needing to access any internal registers"
 	
