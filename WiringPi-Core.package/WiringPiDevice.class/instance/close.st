@@ -1,4 +1,3 @@
-FFI - I2C
-closeI2C: fd
-
+controlling
+close
 	^ self ffiCall: #(int close #(int fd)) module: LibC

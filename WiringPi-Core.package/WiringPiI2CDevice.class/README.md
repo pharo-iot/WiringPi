@@ -1,0 +1,1 @@
+I provide wiringpi functions for input/output I2C operations with connected device.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DenisKudryashov 2/2/2018 17:57",
+	"super" : "Object",
+	"category" : "WiringPi-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fd"
+	],
+	"name" : "WiringPiDevice",
+	"type" : "normal"
+}
