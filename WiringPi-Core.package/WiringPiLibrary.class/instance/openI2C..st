@@ -5,4 +5,4 @@ openI2C: devId
 	fd := self wiringPiI2CSetup: devId.
 	fd < 0 ifTrue: [ ^self error: 'cant setup I2C on given address'].
 	
-	^WiringPiI2CDevice on: fd
+	^WiringPiI2CConnection on: fd

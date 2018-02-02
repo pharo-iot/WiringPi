@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "DenisKudryashov 2/2/2018 17:57",
+	"commentStamp" : "DenisKudryashov 2/2/2018 18:32",
 	"super" : "Object",
 	"category" : "WiringPi-Core",
 	"classinstvars" : [ ],
@@ -8,6 +8,6 @@
 	"instvars" : [
 		"fd"
 	],
-	"name" : "WiringPiDevice",
+	"name" : "WiringPiDeviceConnection",
 	"type" : "normal"
 }
