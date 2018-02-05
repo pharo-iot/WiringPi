@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DenisKudryashov 2/2/2018 18:33",
+	"super" : "WiringPiDeviceConnection",
+	"category" : "WiringPi-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WiringPiI2CConnection",
+	"type" : "normal"
+}
