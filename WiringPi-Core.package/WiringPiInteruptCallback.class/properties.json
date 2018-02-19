@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFICallback",
+	"category" : "WiringPi-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WiringPiInteruptCallback",
+	"type" : "normal"
+}
